@@ -1,6 +1,6 @@
 # Kişisel Gelir ve Borç Takip Uygulaması
 
-Bu proje, bireysel kullanıcılar veya serbest meslek sahipleri için geliştirilen bir **Windows Forms (WinForms)** uygulamasıdır. Kullanıcılar bu uygulama sayesinde **gelirlerini (wage)** ve **borçlarını (debt)** kolayca takip edebilir, kayıt ekleyip silebilir veya düzenleyebilir.
+Bu proje, bireysel kullanıcılar için geliştirilen bir **Windows Forms** uygulamasıdır. Kullanıcılar bu uygulama sayesinde **gelirlerini** ve **borçlarını** kolayca takip edebilir, kayıt ekleyip silebilir veya düzenleyebilir.
 
 ## 🛠 Kullanılan Teknolojiler
 
