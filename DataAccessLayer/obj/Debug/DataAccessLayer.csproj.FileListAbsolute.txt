@@ -1,0 +1,15 @@
+C:\Users\berka\OneDrive\Masaüstü\hesapKitapUygulamasi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\berka\OneDrive\Masaüstü\hesapKitapUygulamasi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\berka\OneDrive\Masaüstü\hesapKitapUygulamasi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\berka\OneDrive\Masaüstü\hesapKitapUygulamasi\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\berka\OneDrive\Masaüstü\hesapKitapUygulamasi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\berka\OneDrive\Masaüstü\hesapKitapUygulamasi\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\berka\OneDrive\Masaüstü\hesapKitapUygulamasi\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\berka\OneDrive\Masaüstü\hesapKitapUygulamasi\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\berka\OneDrive\Masaüstü\hesapKitapUygulamasi\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\berka\OneDrive\Masaüstü\hesapKitapUygulamasi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\berka\OneDrive\Masaüstü\hesapKitapUygulamasi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\berka\OneDrive\Masaüstü\hesapKitapUygulamasi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\hesapKitapUygulamasi\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\berka\OneDrive\Masaüstü\hesapKitapUygulamasi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\berka\OneDrive\Masaüstü\hesapKitapUygulamasi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
